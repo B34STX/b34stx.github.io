@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktuhin=self.webpackChunktuhin||[]).push([[883],{9616:function(e,t,n){n.r(t),n.d(t,{default:function(){return a}});var u=n(7294),l=n(5444);function a(){return u.createElement("main",null,u.createElement("title",null,"404 | Tuhin"),u.createElement("div",{className:"not-found"},u.createElement(l.Link,{className:"text",to:"/"},"404")))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-ea71a4cee76b6cb0c4a5.js.map
